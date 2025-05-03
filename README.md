@@ -24,12 +24,12 @@ Origine : [Pain in the Hash](http://hackropole.fr/fr/challenges/crypto/fcsc2023-
 > http://localhost
 
 #### tentez 
-> nc pain-in-the-hash.cyrhades.fr:4000
+> nc pain-in-the-hash.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 
 -----------
