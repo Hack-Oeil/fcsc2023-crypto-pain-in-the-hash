@@ -11,7 +11,7 @@ Fichiers:
 
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 
 Origine : [Pain in the Hash](http://hackropole.fr/fr/challenges/crypto/fcsc2023-crypto-pain-in-the-hash/)
